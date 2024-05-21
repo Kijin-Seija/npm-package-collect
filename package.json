@@ -1,0 +1,20 @@
+{
+  "name": "npm-package-collect",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "npm-package-collect": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "tar": "^7.1.0",
+    "yargs": "^17.7.2"
+  }
+}
